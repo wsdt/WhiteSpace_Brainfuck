@@ -1,9 +1,9 @@
    
    	 	 
-    		  	 	
-    		   		
+© Riedl Kevin, 2018    		  	 	
+This whitespace program ignores all chars except spaces, newlines and tabs.    		   		
     		    	
-    			    
+https://github.com/wsdt    			    
      			  		
     		  	 	
     			 	  
@@ -23,16 +23,16 @@
     		  	 	
     	  	 		
 
-  	         	   	  	  
+  
  
  
-	 			 	   	 	  
+	 	
 	
   
  
-	         	   	  	  
 
-  			 	   	 	  
+
+  	
  
 
 
